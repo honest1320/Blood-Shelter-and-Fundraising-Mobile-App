@@ -11,16 +11,31 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.BloodDonationApp",
+      "config": {
+        "googleMapsApiKey": {
+          "apiKey": "AIzaSyDRe7WAWJQW0CyfGPR1jatR1AfzbYCFpMM"
+        }
+      }
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
+      },
+      "package": "com.example.BloodDonationApp",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyDRe7WAWJQW0CyfGPR1jatR1AfzbYCFpMM"
+        },
+        "permission": [
+          "ACCESS_COARSE_LOCATION",
+          "ACCESS_FINE_LOCATION",
+          "FOREGROUND_SERVICE"
+        ]
       }
     },
     "web": {
