@@ -10,7 +10,7 @@ import {
   Dimensions,
   Platform,
 } from "react-native";
-const GOOGLE_MAPS_APIKEY = "AIzaSyDRe7WAWJQW0CyfGPR1jatR1AfzbYCFpMM";
+const GOOGLE_MAPS_APIKEY = "AIzaSyDRe7WAWJQW0CyfGPR1jatR1AfzbYCFpMMHAT";
 import MapView, { Marker, PROVIDER_GOOGLE } from "react-native-maps";
 import * as Location from "expo-location";
 import { Icon } from "react-native-elements";
