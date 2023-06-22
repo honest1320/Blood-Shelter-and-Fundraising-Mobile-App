@@ -17,7 +17,7 @@
       "bundleIdentifier": "com.example.BloodDonationApp",
       "config": {
         "googleMapsApiKey": {
-          "apiKey": "AIzaSyDRe7WAWJQW0CyfGPR1jatR1AfzbYCFpMM"
+          "apiKey": "AIzaSyDRe7WAWJQW0CyfGPR1jatR1AfzbYCFpMMHAT"
         }
       }
     },
@@ -29,7 +29,7 @@
       "package": "com.example.BloodDonationApp",
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyDRe7WAWJQW0CyfGPR1jatR1AfzbYCFpMM"
+          "apiKey": "AIzaSyDRe7WAWJQW0CyfGPR1jatR1AfzbYCFpMMHAT"
         },
         "permission": [
           "ACCESS_COARSE_LOCATION",
