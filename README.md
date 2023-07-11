@@ -43,13 +43,9 @@ This is a React Native mobile application application that efficiently manages b
 </p>
 
 <p float="left">
-         <img src="https://github.com/honest1320/Blood-Shelter-and-Fundraising-Mobile-App/assets/63172797/6b3ac221-80a7-41a4-81ed-f4a0b227a913" width="26%" />
          <img src="https://github.com/honest1320/Blood-Shelter-and-Fundraising-Mobile-App/assets/63172797/ea5de035-c9fa-4133-97da-bc93acec2da0" width="26%" />
          <img src="https://github.com/honest1320/Blood-Shelter-and-Fundraising-Mobile-App/assets/63172797/8dd84ac0-0293-40c7-bb13-4a2a5282d9c9" width="26%" />
-</p>
-
-<p float="left">
-            <img src="https://github.com/honest1320/Blood-Shelter-and-Fundraising-Mobile-App/assets/63172797/ec8846f5-2eb2-4f35-8edf-3eaf32315458" width="26%" />
+               <img src="https://github.com/honest1320/Blood-Shelter-and-Fundraising-Mobile-App/assets/63172797/ec8846f5-2eb2-4f35-8edf-3eaf32315458" width="26%" />
 </p>
 
 
